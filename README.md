@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div>
 <!-- <a href="instagram.com/lpxsbr"> -->
-  <img heigth=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpxsbr&layout=compact">
+<!--  <img heigth=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpxsbr&layout=compact"> -->
 </div>
