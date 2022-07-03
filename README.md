@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <h1>Hello!</h1>
+  h1>Hello!</h1>
   <p>I'm production engineering student, and beloved for programming. <br> My skill are: <br></p>
-  
-  <li>PHP</li>
-  <li>Laravel</li>
-  <li>Project Management</li>
-  <li>Agile</li>
-  
+  <ul>
+    <li>PHP</li>
+    <li>Laravel</li>
+   <li>Project Management</li>
+   <li>Agile</li>
+  </ul>
+  <br>
 </div>
 <div>
-<!-- <a href="instagram.com/lpxsbr"> -->
- <img heigth=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpxsbr&layout=compact&theme=dracula">
+  <img heigth=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpxsbr&layout=compact&theme=dracula">
 </div>
