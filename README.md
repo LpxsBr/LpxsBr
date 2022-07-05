@@ -1,14 +1,7 @@
-
-<style>
-  h1{
-    color:aquamarine;
-  }
-</style>
-
 <div class="init">
   <h1>Hello!</h1>
   <h3>My names's anselmo.</h3>
-  <img src="https://acegif.com/wp-content/gifs/rainbow-frog-16.gif" alt="alea">
+  <img height="100em"  src="https://acegif.com/wp-content/gifs/rainbow-frog-16.gif" alt="sapo">
   <p>I'm production engineering student, and beloved for programming. <br> My skill are: <br></p>
   <ul>
     <li>PHP</li>
