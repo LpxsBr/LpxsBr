@@ -10,7 +10,7 @@ engenharia de produção mecânica - ufc
 <div align="center">
   
   Insta: <code> [@anselmolopess_](https://www.instagram.com/anselmolopess_) </code> |
-  Linkedin: <code> [@anselmolopesfin](https://www.linkedin.com/in/anselmolopesfin/) </code> |
+  Linkedin: <code> [@anselmolopess](https://www.linkedin.com/in/anselmolopess/) </code> |
   Youtube: <code> [@LpxsBr](https://www.youtube.com/channel/UCkPDAOFZlw2mVkqwdgXS2iQ) </code>
   
   Email: <code> [@Anselmo Email](mailto:anselmolopes.an@gmail.com) </code>
