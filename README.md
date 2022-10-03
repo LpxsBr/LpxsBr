@@ -27,6 +27,6 @@ Codando um pouco todo dia, vivendo e desenvolvendo
   
   #### Métricas
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lpxsbr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img heigth=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpxsbr&layout=compact&theme=dracula">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lpxsbr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img heigth=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lpxsbr&layout=compact&theme=dracula">
 </div>
