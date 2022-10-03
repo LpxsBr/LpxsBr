@@ -18,7 +18,7 @@ Codando um pouco todo dia, vivendo e desenvolvendo
   Youtube: <code> [@LpxsBr](https://www.youtube.com/channel/UCkPDAOFZlw2mVkqwdgXS2iQ) </code>
   
   Email: <code> [@Anselmo Email](mailto:anselmolopes.an@gmail.com) </code>
-  
+    
  </div>
 
 ----
