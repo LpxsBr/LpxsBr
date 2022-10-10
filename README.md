@@ -19,6 +19,6 @@ Sou um estudante de Engenharia de Produção aprendendo a codar :)
 
 <div align="left">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lpxsbr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  ![LpxsBr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lpxsbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 </div>
