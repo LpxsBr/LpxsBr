@@ -17,8 +17,8 @@ Sou um estudante de Engenharia de Produção aprendendo a codar :)
 
 ----
 
-<div align="left">
+<!-- <div align="left">
 
   ![LpxsBr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lpxsbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-</div>
+</div> -->
