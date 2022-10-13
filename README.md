@@ -1,6 +1,8 @@
 #### Iae, meu nome é Anselmo :)
 
-Sou um estudante de Engenharia de Produção aprendendo a codar :)
+<h4> Sou um estudante de Engenharia aprendendo a codar :) </h4>
+
+aberto a oportunidades de aprendizado :)
 
 ----
 
