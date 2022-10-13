@@ -5,6 +5,17 @@ Sou um estudante de Engenharia de Produção aprendendo a codar :)
 ----
 
 <div align="left">
+
+  #### Tecnologias
+  
+  - PHP (Laravel)
+  - HTML, CSS e JS (Bootstrap)
+  - Python (Pandas)
+  - VBA
+  
+</div>
+
+<div align="left">
   
   #### Redes Sociais
   
