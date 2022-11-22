@@ -8,13 +8,8 @@ aberto a oportunidades de aprendizado :)
 
 <div align="left">
 
-  #### Tecnologias
-  
-  - PHP (Laravel)
-  - HTML, CSS e JS (Bootstrap)
-  - Python (Pandas)
-  - VBA
-  
+  # PROFISSIONAL EM CONSTRUÇÃO . . . :)
+
 </div>
 
 <div align="left">
