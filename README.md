@@ -1,24 +1,16 @@
 #### Iae, meu nome é Anselmo :)
 
-<h4> Sou um estudante de Engenharia aprendendo a codar :) </h4>
-
-aberto a oportunidades de aprendizado :)
-
 ----
 
 <div align="left">
 
-  # PROFISSIONAL EM CONSTRUÇÃO . . . :)
+  # PERFIL (e) PROFISSIONAL EM CONSTRUÇÃO . . . :)
 
 </div>
 
 <div align="left">
   
-  #### Redes Sociais
-  
-  Insta: <code> [@anselmolopess_](https://www.instagram.com/anselmolopess_) </code> ||
-  Linkedin: <code> [@anselmolopess](https://www.linkedin.com/in/anselmolopess/) </code> ||
-  Youtube: <code> [@LpxsBr](https://www.youtube.com/channel/UCkPDAOFZlw2mVkqwdgXS2iQ) </code> ||
+  Linkedin: <code> [@anselmolopess](https://www.linkedin.com/in/anselmolopess/) </code> -
   Email: <code> [@Anselmo Email](mailto:anselmolopes.an@gmail.com) </code> 
     
  </div>
