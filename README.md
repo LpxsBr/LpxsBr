@@ -1,26 +1,44 @@
-#### Iae, meu nome é Anselmo :)
+### Ola :)
 
 ----
 
+#### QuemSouEu()
+
 <div align="left">
+  <code>
+        Me chamo Anselmo
 
-  # PERFIL (e) PROFISSIONAL EM CONSTRUÇÃO . . . :)
-  
-  Perfil sujeito a mundanças
-
+        Sou um estudante de engenharia de producao que a pouco mais de um ano
+        tenta se aventurar pelo incrivel universo dos codigos
+        Hoje sou focado em diferentes linguagens das stacks pra Web e automacoes,
+        atuando como estagiario fullstack na [@ecocolab](https://www.github.com/ecocolab)
+  </code>
 </div>
 
+----
+
+#### Tecnologias()
+
 <div align="left">
-  
-  Linkedin: <code> [@anselmolopess](https://www.linkedin.com/in/anselmolopess/) </code> -
-  Email: <code> [@Anselmo Email](mailto:anselmolopes.an@gmail.com) </code> 
-    
- </div>
+  <code>
+    PHP/Laravel, ReactJS, Python, VBA, Azure, SQL
+  </code>
+</div>
 
 ----
 
-<!-- <div align="left">
+#### Redes()
+
+<div align="left">
+  Linkedin: <a href="https://www.linkedin.com/in/anselmolopess/">@anselmolopess</a>
+  /
+  Email: <a href="mailto:anselmolopes.an@gmail.com">@anselmo</a>
+</div>
+
+----
+
+<div align="center">
 
   ![LpxsBr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lpxsbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-</div> -->
+</div>
