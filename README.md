@@ -34,11 +34,3 @@
   /
   Email: <a href="mailto:anselmolopes.an@gmail.com">@anselmo</a>
 </div>
-
-----
-
-<div align="center">
-
-  ![LpxsBr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lpxsbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-</div>
