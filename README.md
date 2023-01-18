@@ -1,36 +1,10 @@
-### Ola :)
+### Bem-vindo :)
 
-----
-
-#### QuemSouEu()
-
-<div align="left">
-  <code>
-        Me chamo Anselmo
-
-        Sou um estudante de engenharia de producao que a pouco mais de um ano
-        tenta se aventurar pelo incrivel universo dos codigos
-        Hoje sou focado em diferentes linguagens das stacks pra Web e automacoes,
-        atuando como estagiario fullstack na [@ecocolab](https://www.github.com/ecocolab)
-  </code>
+<div align="center">
+  Desenvolvedor ReactJS e Python
+  <br>
 </div>
 
-----
-
-#### Tecnologias()
-
-<div align="left">
-  <code>
-    PHP/Laravel, ReactJS, Python, VBA, Azure, SQL
-  </code>
-</div>
-
-----
-
-#### Redes()
-
-<div align="left">
-  Linkedin: <a href="https://www.linkedin.com/in/anselmolopess/">@anselmolopess</a>
-  /
-  Email: <a href="mailto:anselmolopes.an@gmail.com">@anselmo</a>
+<div align="center">  
+  [![Linkedin Badge](https://img.shields.io/badge/-Anselmo%20Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anselmolopess)](https://www.linkedin.com/in/anselmolopess/)
 </div>
