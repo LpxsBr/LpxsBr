@@ -1,8 +1,7 @@
 ### Bem-vindo :)
 
 <div align="center">
-  Desenvolvedor ReactJS e Python
-  <br>
+  Desenvolvedor ReactJs e NodeJs
 </div>
 
 <div align="center">
