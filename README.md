@@ -9,13 +9,9 @@
 ---
 
 <br>
-<div style="display: flex;>
-  <div>
+<div style="display: flex; gap: 10px">
     <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LpxsBr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </div>
-  <div>
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LpxsBr&layout=compact&langs_count=16&theme=github_dark"/>
-  </div>
 </div>
 <br>
 
