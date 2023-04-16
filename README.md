@@ -6,7 +6,7 @@
 
 <div style="display: flex;">
   <div>
-    [![LpxsBr's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LpxsBr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LpxsBr)
+    ![Lpxsbr Stats](https://github-readme-stats.vercel.app/api?username=LpxsBr&show_icons=true&theme=dark#gh-dark-mode-only)
   </div>
   <div>
     <h2>Frontend</h2>
