@@ -37,7 +37,7 @@
   <div class="title">
     <h3>Tecnologias</h3>
   </div>
-  <div class="techologies-list">
+  <div class="techologies-list" style="display: flex; flex-direction: row">
     <div>
       <h4>Frontend</h4>
       <li>HTML</li>
