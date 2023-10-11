@@ -47,7 +47,8 @@
 
 <div align="center">
 <h3>Contato</h3>
-  
-[![badge](https://img.shields.io/badge/-Anselmo%20Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anselmolopess)](https://www.linkedin.com/in/anselmolopess/)
+  <a href="https:/www.linkedin.com/in/anselmolopess" target="_blank">
+    <img  width="150em" src="https://img.shields.io/badge/-Anselmo%20Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anselmolopess"/>
+  </a>
   
 </div>
