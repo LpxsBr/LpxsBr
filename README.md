@@ -1,65 +1,36 @@
-## Bem-vindo(a) ao meu portfolio minimalista.
+# 👨‍💻 Anselmo Lopes - Fullstack Developer
+
+Welcome to my minimalist portfolio! I'm Anselmo Lopes, a fullstack developer passionate about creating innovative and scalable solutions. My commitment is to simplify people's lives through technology. This is my space to share my journey, skills, and projects.
+
+## About Me
+Hello, I'm Anselmo Lopes, a fullstack developer based in the sunny land of Brazil. My journey is marked by dedication to technology and engineering. I found in computing the perfect way to combine these passions, constantly seeking to improve my skills to contribute to innovative solutions.
+
+## GitHub Activities
+Take a look at some statistics from my GitHub profile:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LpxsBr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+
+## Technologies
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![NodeJs](https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP/Laravel](https://img.shields.io/badge/-PHP/Laravel-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white)
+
+## Contact
+I'm available for challenging opportunities and innovative collaborations. If you're looking for a dedicated and technology-passionate fullstack developer, get in touch! I'm open to new challenges and ready to contribute to the success of your project.
+
+**Let's create something amazing together!** 🚀
+
+[![LinkedIn - Anselmo Lopes](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anselmolopess)](https://www.linkedin.com/in/anselmolopess)
+[![Twitter - Lopes](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/LpxsBr)](https://twitter.com/LpxsBr)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email%20Me-red?style=flat-square&logo=gmail)](mailto:anselmolopes.an@gmail.com)
+
+---
+Explore my profile on [Holopin](https://holopin.io/@lpxsbr) to learn more about my journey and achievements.
+
 [![An image of @lpxsbr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lpxsbr)](https://holopin.io/@lpxsbr)
-<div align="start">
-  <h2>Eu me chamo Anselmo :)<h2>
-  <p>Sou desenvolvedor fullstack da terra do sol com muita garra e vontade de aprender</p>
-  <blockquote class="about-me">
-    <p>Sempre gostei muito da área de tecnologia e engenharia, e encontrei por meio da computação uma forma de unir isso. Hoje tenho o objetivo de usar esse conhecimento pra simplificar       a vida das pessoas por meio de aplicações escaláveis</p>
-  </blockquote>
-</div>
-    
-<div class="activitie-container">
-<div class="title">
-  <h3>Bora ver a minha atividade por aqui</h3>
-</div>
-
-<div class="activities">
-    <img  class="activitie-panel" height="180em" src="https://github-readme-stats.vercel.app/api?username=LpxsBr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img  class="lang-panel" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LpxsBr&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
-
-</div>
-
----
-
-<div class="posts-container">
-  <div class="title">
-    <h3>Posts</h3>
-  </div>
-  <div class="blockquote">
-    <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Iae pessoal que chegou aqui *do nada*<br><br>Sou um estudante de engenharia de produção que se meteu nos código a quase 1.2 anos e tá quase mudando de curso :)<br><br>Um dev em ascensão (espero) <a href="https://t.co/lU9GR5r4xx">pic.twitter.com/lU9GR5r4xx</a></p>&mdash; Lopes (@LpxsBr) <a href="https://twitter.com/LpxsBr/status/1693055859620802784?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote>
-    </div>
-</div>
-
----
-
-<div style="display: flex; justify-content: center; gap: 20%" class="technologie-container">
-  <div class="title">
-    <h3>Tecnologias</h3>
-  </div>
-  <div class="techologies-list" style="display: flex;">
-    <div>
-      <h4>Frontend</h4>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Javascript</li>
-      <li>React / React Native</li>
-    </div>
-    <div>
-      <h4>Backend</h4>
-      <li>NodeJs</li>
-      <li>PHP</li>
-      <li>Python</li>
-    </div>
-  </div>
-</div>
-
-<div align="center">
-  <div class="title">
-    <h3>Contato</h3>
-  </div>
-  <a href="https://www.linkedin.com/in/anselmolopess" target="_blank>
-    <img  width="150em" src="https://img.shields.io/badge/-Anselmo%20Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anselmolopess"/>
-  </a>
-  
-</div>
