@@ -1,7 +1,5 @@
 # Hello World! 👨‍💻
 
-Hello! I'm Anselmo Lopes, a fullstack developer passionate about creating innovative and scalable solutions. My commitment is to simplify people's lives through technology. This is my space to share my journey, skills, and projects.
-
 ## About Me 🧍‍♂
 Hello, what's up? I'm Anselmo Lopes, a fullstack developer based in the sunny land of Brazil. My journey is marked by dedication to technology and engineering. I found in computing the perfect way to combine these passions, constantly seeking to improve my skills to contribute to innovative solutions.
 
