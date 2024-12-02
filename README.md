@@ -19,7 +19,7 @@ Take a look at some statistics from my GitHub profile:
 ![PHP/Laravel](https://img.shields.io/badge/-PHP/Laravel-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white)
-
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ## Profile Trophies 🏆
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=lpxsbr&column=10&theme=darkhub&no-bg=true)
