@@ -16,6 +16,6 @@ My name is Anselmo. I currently live in CE, Brazil and my goal is create a lot o
 ## Detailed information
 
 * **Name**: Anselmo
-* **Stack**: PHP - Laravel - Bootstrap - SQL - Linux - React
-* **Learning**: Go and LiveWire
-* **University**: Software Engineering.
+* **Tech Stack**: PHP - Laravel - Bootstrap - SQL - Linux - React - Angular
+* **Learning**: Go Lang
+* **University**: Software Engineering - Unifanor.
