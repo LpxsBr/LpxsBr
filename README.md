@@ -19,3 +19,7 @@ My name is Anselmo. I currently live in CE, Brazil and my goal is create a lot o
 * **Tech Stack**: PHP - Laravel - Bootstrap - SQL - Linux - React - Angular
 * **Learning**: Go Lang
 * **University**: Software Engineering - Unifanor.
+
+---
+
+![LpxsBr's GitHub stats](https://github-readme-stats.vercel.app/api?username=LpxsBr&show_icons=true&theme=transparent)
