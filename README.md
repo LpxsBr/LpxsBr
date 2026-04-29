@@ -23,7 +23,3 @@ My name is Anselmo. I currently live in CE, Brazil and my goal is create a lot o
 
 * **Email:** [anselmolopes.an@gmail.com](mailto://anselmolopes.an@gmail.com)
 * **LinkedIn:** [anselmolopess](https://www.linkedin.com/in/anselmolopess)
-
----
-
-![LpxsBr's GitHub stats](https://github-readme-stats.vercel.app/api?username=LpxsBr&show_icons=true&theme=transparent)
