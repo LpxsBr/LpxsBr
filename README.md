@@ -16,9 +16,13 @@ My name is Anselmo. I currently live in CE, Brazil and my goal is create a lot o
 ## Detailed information
 
 * **Name**: Anselmo
-* **Tech Stack**: PHP - Laravel - Bootstrap - SQL - Linux - React & React Native & NextJs Framework - Angular - Redis
-* **Learning**: Go Lang and RAG
+* **Tech Stack**: PHP - Laravel - Bootstrap - SQL - Linux - React & React Native & NextJs Framework - Angular - Redis - CI/CD (Github Actions) - LangChain
 * **University**: Software Engineering - Unifanor.
+
+## Contact
+
+* **Email:** [anselmolopes.an@gmail.com](anselmolopes.an@gmail.com)
+* **LinkedIn:** [anselmolopess](https://www.linkedin.com/in/anselmolopess)
 
 ---
 
