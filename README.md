@@ -7,7 +7,7 @@
     </a>
 </div>
 
-## Hello :)
+## Hey :)
 
 ## Public information
 
