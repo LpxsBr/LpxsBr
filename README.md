@@ -16,8 +16,9 @@ My name is Anselmo. I currently live in CE, Brazil and my goal is create a lot o
 ## Detailed information
 
 * **Name**: Anselmo
-* **Tech Stack**: PHP - Laravel - Bootstrap - SQL - Linux - React & React Native & NextJs Framework - Angular - Redis - CI/CD (Github Actions) - LangChain
+* **Tech Stack**: React, Laravel, Angular and Kotlin
 * **University**: Software Engineering - Unifanor.
+* **Learning**: Native Android Development with Kotlin
 
 ## Contact
 
